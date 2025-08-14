@@ -12,7 +12,7 @@ export default function BuyAndy() {
             <span className="text-white">
                 <ChevronDown className="w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10" />
             </span>
-            <span className="tracking-wider">{"BUY/ADOPT SANDY"}</span>
+            <span className="tracking-wider">{"BUY/ADOPT $ANDY"}</span>
             <span className="text-white">
                 <ChevronDown className="w-6 h-6 sm:w-8 sm:h-8 md:w-10 md:h-10" />
             </span>
