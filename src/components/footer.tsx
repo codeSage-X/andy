@@ -21,7 +21,7 @@ export default function Footer() {
           {/* Copyright */}
           <div className="mt-8 pt-6 ">
             <p className="nunito text-teal-600">
-              © 2024 $ANDY Token. All rights reserved. From the streets to the moon! 🚀
+              © {new Date().getFullYear()} $ANDY Token. All rights reserved. From the streets to the moon! 🚀
             </p>
           </div>
         </div>

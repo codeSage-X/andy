@@ -4,7 +4,7 @@ const steps = [
   {
     id: 1,
     title: "GET A WALLET",
-    description: "Download a Solana wallet like Phantom or Sollet to store your $ANDY tokens.",
+    description: "Download a Solana wallet like phantom to store your $Andy tokens.",
     image: "/images/carton.png",
     imagePosition: "left"
   },
@@ -21,7 +21,7 @@ const steps = [
     description: "Go to [Exchange Link] or use [Swap Platform] to exchange SOL for $ANDY tokens.",
     image: "/images/house.png",
     imagePosition: "left",
-    note: "Make sure to have the right ticker! Here's where you can directly buy some $ANDY"
+    note: "Make sure to have the right ticker! Click the buy $andy button above to purchase $ANDY"
   }
 ];
 

@@ -26,7 +26,7 @@ const testimonials: TestimonialCard[] = [
     id: 2,
     name: "Sarah Mitchell",
     title: "Community Manager",
-    image: "/images/dog.png",
+    image: "/images/dawg1.png",
     content:
       "Andy's journey inspired me so much! The community here is amazing and supportive. Every dog deserves a chance to reach for the moon just like Andy did.",
     verified: true,
@@ -35,7 +35,7 @@ const testimonials: TestimonialCard[] = [
     id: 3,
     name: "Mike Rodriguez",
     title: "Blockchain Developer",
-    image: "/images/dog.png",
+    image: "/images/dawg2.png",
     content:
       "From the streets to the moon - this project represents everything I believe in. The tokenomics are solid and the community is incredibly strong.",
     verified: true,
@@ -44,7 +44,7 @@ const testimonials: TestimonialCard[] = [
     id: 4,
     name: "Emma Thompson",
     title: "Digital Marketing Specialist",
-    image: "/images/dog.png",
+    image: "/images/dawg3.png",
     content:
       "I've been following Andy since day one. The storytelling and community building here is phenomenal. This is more than just a token - it's a movement.",
     verified: true,
@@ -53,7 +53,7 @@ const testimonials: TestimonialCard[] = [
     id: 5,
     name: "David Chen",
     title: "Product Designer",
-    image: "/images/dog.png",
+    image: "/images/dawg4.png",
     content:
       "The design and user experience of this project is top-notch. Andy's story resonates with so many people, and the execution is flawless.",
     verified: true,
@@ -62,7 +62,7 @@ const testimonials: TestimonialCard[] = [
     id: 6,
     name: "Lisa Johnson",
     title: "Content Creator",
-    image: "/images/dog.png",
+    image: "/images/dawg5.png",
     content:
       "As a dog lover and crypto enthusiast, Andy represents the perfect combination of heart and innovation. The community support is incredible.",
     verified: true,

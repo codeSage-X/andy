@@ -15,7 +15,7 @@ const faqData = [
     id: 2,
     question: "How can I buy $ANDY?",
     answer:
-      "You can buy $ANDY by following our simple 3-step process: 1) Get a Solana wallet like Phantom or Sollet, 2) Add SOL to your wallet, 3) Use a DEX like Jupiter or Raydium to swap SOL for $ANDY tokens. Make sure you have the correct contract address!",
+      "You can buy $ANDY by following our simple 3-step process: 1) Get a Solana wallet like Phantom, 2) Add SOL to your wallet, 3) Use a DEX like Jupiter or Raydium to swap SOL for $ANDY tokens. Make sure you have the correct contract address!",
   },
   {
     id: 3,

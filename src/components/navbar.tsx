@@ -95,7 +95,7 @@ export default function Navbar() {
             className="bg-[#E68242] hover:bg-[#D67433] text-white font-piximisa font-bold px-4 py-2 rounded-none border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] transform hover:translate-x-[2px] hover:translate-y-[2px] hover:shadow-[2px_2px_0px_0px_rgba(0,0,0,1)] transition-all duration-200 flex items-center gap-2"
           >
             {/* <Menu size={20} /> */}
-            MENU
+            Buy $ANDY
           </Button>
         </div>
       </nav>
