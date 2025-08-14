@@ -110,7 +110,7 @@ export default function Navbar() {
         className={`fixed top-0 right-0 h-full w-80 shadow-2xl z-50 transform transition-transform duration-300 ease-in-out md:hidden ${
           isMobileMenuOpen ? "translate-x-0" : "translate-x-full"
         }`}
-        style={{ backgroundColor: '#FFEBC8' }}
+        style={{ backgroundColor: '#85CDC1' }}
       >
         {/* Sidebar Header */}
         <div className="flex justify-between items-center p-6 border-b border-gray-300">
@@ -124,11 +124,11 @@ export default function Navbar() {
                 className="object-contain w-10 h-10 bg-transparent rounded-full flex items-center justify-center shadow-lg"
               />
             </div>
-            <span className="text-gray-800 font-piximisa font-bold text-xl">ANDY</span>
+            <span className="text-white font-piximisa font-bold text-xl">ANDY</span>
           </div>
           <Button
             onClick={closeMobileMenu}
-            className="bg-transparent hover:bg-gray-200 text-gray-800 p-2 rounded-none "
+            className="bg-transparent hover:bg-gray-200 text-white p-2 rounded-none "
           >
             <X size={30} />
           </Button>
@@ -140,19 +140,19 @@ export default function Navbar() {
           <div className="space-y-4">
             <button
               onClick={() => scrollToSection('andys-journey')}
-              className="block w-full text-left text-gray-800 font-piximisa font-bold text-xl py-3 px-4 rounded-none hover:bg-gray-200 transition-colors border-2 border-transparent hover:border-gray-400"
+              className="block w-full text-left text-white font-piximisa font-bold text-xl py-3 px-4 rounded-none hover:bg-gray-200 transition-colors border-2 border-transparent hover:border-gray-400"
             >
               ANDY&apos;S JOURNEY
             </button>
             <button
               onClick={() => scrollToSection('roadmap')}
-              className="block w-full text-left text-gray-800 font-piximisa font-bold text-xl py-3 px-4 rounded-none hover:bg-gray-200 transition-colors border-2 border-transparent hover:border-gray-400"
+              className="block w-full text-left text-white font-piximisa font-bold text-xl py-3 px-4 rounded-none hover:bg-gray-200 transition-colors border-2 border-transparent hover:border-gray-400"
             >
               ROADMAP
             </button>
             <button
               onClick={() => scrollToSection('faqs')}
-              className="block w-full text-left text-gray-800 font-piximisa font-bold text-xl py-3 px-4 rounded-none hover:bg-gray-200 transition-colors border-2 border-transparent hover:border-gray-400"
+              className="block w-full text-left text-white font-piximisa font-bold text-xl py-3 px-4 rounded-none hover:bg-gray-200 transition-colors border-2 border-transparent hover:border-gray-400"
             >
               FAQS
             </button>
@@ -175,7 +175,7 @@ export default function Navbar() {
           {/* Additional Mobile-Only Content */}
           <div className="mt-8 pt-6 border-t border-gray-300">
             <div className="text-center">
-              <p className="text-gray-800 font-piximisa text-lg mb-4">Join Andy&apos;s Adventure!</p>
+              <p className="text-white font-piximisa text-lg mb-4">Join Andy&apos;s Adventure!</p>
               <div className="flex justify-center">
                 <div className="w-16 h-16 bg-white rounded-full flex items-center justify-center shadow-lg">
                   <span className="text-3xl">🚀</span>
